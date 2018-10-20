@@ -18,6 +18,7 @@ def second_supply_for_fourth_of_july(holiday_hash)
      }
    }
    :fourth_of_july.keys.min
+   binding.pry
   # return the second element in the 4th of July array
 end
 
